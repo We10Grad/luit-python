@@ -1,3 +1,7 @@
-print("Hello World")
+def hello():
+    print("Hello World")
 
-print("Welcome to Python programming!")
+if __name__ == "__main__":
+    hello()
+    hello()
+    hello()
